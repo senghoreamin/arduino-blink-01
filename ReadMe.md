@@ -38,8 +38,8 @@ Step 2: **Assembling the circuit**
 
 - Assemble the circuit following the diagram **layout-1** attached to the sketch below. Connect the Cathode(-) to the ground pin(gnd) and the Anode(+) to the resistor to pin 13.
   - below is an image from [tinkercad](https://www.tinkercad.com/things/liwSyHrCJiv) on how the circuit is assembled. 
-  - ![](arduino-blink-sketch.png)
-  - **Schematic**:
+    - ![](arduino-blink-sketch.PNG)
+     **Schematic**:
     - ![](schematic.png)
 
 Step 3: **Load the code**
