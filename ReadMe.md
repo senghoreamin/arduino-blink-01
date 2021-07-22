@@ -2,11 +2,11 @@
 
 ---
 
-> :Name: [Your Name]
-> :Email: [user@yourmail.com]
-> :Date: 27/02/2021
-> :Revision: version#
-> :License: Public Domain
+> - Name: Muhammed Amin Senghore
+> - Email: senghoreamin@gmail.com
+> - Date: 27/02/2021
+> - Revision: version#
+> - License: Public Domain
 
 ---
 
